@@ -8,11 +8,11 @@
 - Python
 - Git & GitHub
 - Basic Automation (Selenium soon)
-- Linux (Zorin OS)
+- Linux 
 
 ### 📂 Current Projects
 - Python Exercises & Mini Projects
-- My Personal AI Assistant (Leo / AbiBot)
+- My Personal AI Assistant (Leo)
 
 ### 📫 Contact
 **Email:** abilakshan0101@gmail.com  
