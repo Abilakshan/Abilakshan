@@ -15,4 +15,4 @@
 - My Personal AI Assistant (Leo / AbiBot)
 
 ### 📫 Contact
-**Email:** abilakshan403@gmail.com  
+**Email:** abilakshan0101@gmail.com  
